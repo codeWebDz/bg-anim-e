@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    height: 100vh;
+    height: 70vh;
     background: linear-gradient(45deg, red ,blue);
     background-size: 400% 150%;
     animation: gradientAnimation 5s ease infinite;
@@ -30,7 +30,7 @@ body {
     position: relative;
     display:flex;
     justify-content: center;
-    bottom: -55%;
+    bottom: -75%;
 }
 footer a , footer{
     color: #3c879e;
